@@ -7,5 +7,3 @@ we can force dogecoin/bitcoin/etc. nodes into uploading unlimited data to an att
 
 # screenshot
 ![image](https://user-images.githubusercontent.com/38997186/231598310-a5a06a8c-33ac-4f72-893c-89d2d2f97279.png)
-
-i find and post about blockchain related security issues a lot - so if you'd like to follow that i'm active on twitter @ https://twitter.com/123456
