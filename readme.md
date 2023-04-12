@@ -7,3 +7,6 @@ we can force dogecoin/bitcoin/etc. nodes to upload unlimited data to an attackin
 
 # asciinema
 [![asciicast](https://asciinema.org/a/576831.svg)](https://asciinema.org/a/576831)
+
+# twitter
+https://twitter.com/123456
