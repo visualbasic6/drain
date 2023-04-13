@@ -55,7 +55,7 @@ ascii = '''
 
       remote dogecoin/bitcoin/etc. bandwidth/cpu drainer
 
-      kevin mcsheehan (pad) april 2023; twitter: @123456
+      kevin mcsheehan (pad) april 2023 - twitter: @123456
 '''
 
 lines = ascii.split("\n")
