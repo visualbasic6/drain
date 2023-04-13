@@ -30,4 +30,5 @@ also - it is extremely likely that bitcoin is also vulnerable to the attack 🤭
 but blockstream (skids) and their approved programmers (skids) are ants at a picnic when it comes to irresponsible public disclosure. i'd like to think that, at least here in the doge community, we like to have a bit of fun and [do a little trolling](https://youtu.be/PobQzVsj7GE?t=4).
 
 mad <3,
+
 [kev](https://twitter.com/123456) (pad)
