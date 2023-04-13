@@ -111,8 +111,8 @@ def recv_message(s, thread_num):
 def create_getheaders_payload(num_headers=1999):
     version = 99999
     num_hashes = 1
-    start_hash = binascii.unhexlify("13ab3b961fcc500c03f51279385c42e9f055d48a37dfa72d0073c0d3f595036b")[::-1]
-    stop_hash = binascii.unhexlify("a2359bcd364b87699dd14e4c8861155d210fb7f7d949277a50a5850f45ed7620")[::-1]
+    start_hash = binascii.unhexlify("82bc68038f6034c0596b6e313729793a887fded6e92a31fbdf70863f89d9bea2")[::-1]
+    stop_hash = binascii.unhexlify("a4f5e07dfe69ce652866a496a1f15f1fdf1d8d20ab3a6eb6c13aaf6d379ba594")[::-1]
     return struct.pack('<L', version) + struct.pack('<B', num_hashes) + start_hash + stop_hash
 
 def process_headers(payload):
