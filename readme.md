@@ -1,4 +1,4 @@
-# drain.py
+# bitdrain
 remote p2p bandwidth/cpu overage financial attack against bitcoin, dogecoin, etc.
 
 github issue https://github.com/dogecoin/dogecoin/issues/3243
