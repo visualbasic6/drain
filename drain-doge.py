@@ -109,7 +109,7 @@ def recv_message(s, thread_num):
     return command, payload
 
 def create_getheaders_payload(num_headers=1999):
-    version = 99999
+    version = 77777
     num_hashes = 1
     start_hash = binascii.unhexlify("82bc68038f6034c0596b6e313729793a887fded6e92a31fbdf70863f89d9bea2")[::-1]
     stop_hash = binascii.unhexlify("a4f5e07dfe69ce652866a496a1f15f1fdf1d8d20ab3a6eb6c13aaf6d379ba594")[::-1]
