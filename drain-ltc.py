@@ -17,7 +17,7 @@ total_mb_received = 0
 
 def create_socket():
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-    s.connect(("PUT-YOUR-NODE-IP-HERE", 8333))
+    s.connect(("PUT-YOUR-NODE-IP-HERE", 9333))
     return s
 
 ascii = '''
