@@ -8,7 +8,7 @@ by using `drain-doge.py`, `drain-btc.py` and `drain-ltc.py` we can force dogecoi
 # asciinema
 [![asciicast](https://asciinema.org/a/577193.svg)](https://asciinema.org/a/577193)
 
-# issue report
+# dogecoin issue report
 
 there is a remote attack that can be carried out in perpetuity against vulnerable nodes in a way that a single attacking machine can force `dogecoind` to upload > 130MB/s to the attacking machine in a sustained way.
 
@@ -24,7 +24,7 @@ the attack is carried out by an [evil multithreaded script](https://github.com/v
 
 i can't find a bug bounty program so i'm just posting it here. it's not really the exploit of the century so i'm not concerned with evil actors carrying out bandwidth attacks against their enemies. that said - still - [get that fixed](https://youtube.com/watch?v=BU3tDES29sY&t=143s).
 
-also - it is extremely likely that bitcoin is also vulnerable to the attack 🤭 
+bitcoin and litecoin are also vulnerable to the attack.
 
 but blockstream (skids) and their approved programmers (skids) are ants at a picnic when it comes to irresponsible public disclosure. i'd like to think that, at least here in the doge community, we like to have a bit of fun and [do a little trolling](https://youtu.be/PobQzVsj7GE?t=4).
 
