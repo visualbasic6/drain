@@ -71,7 +71,7 @@ def create_version_payload():
     addr_recv = struct.pack('<Q16s', services, b'\x00' * 16)
     addr_from = struct.pack('<Q16s', services, b'\x00' * 16)
     nonce = 0
-    user_agent = b'/Satoshi:0.15.1/'
+    user_agent = b'1'
     user_agent_length = len(user_agent)
     user_agent_length_compact = user_agent_length.to_bytes((user_agent_length.bit_length() + 7) // 8, 'little')
     start_height = 0
