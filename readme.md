@@ -30,4 +30,4 @@ but blockstream (skids) and their approved programmers (skids) are ants at a pic
 
 thank you for your immediate attention to this matter.
 
-[kev](https://twitter.com/123456) (pad)
+[pad](https://twitter.com/123456)
