@@ -1,5 +1,5 @@
-# bitdrain - bitcoin cpu/mem dos / financial attack exploit
-remote p2p upstream financial attack against bitcoin, dogecoin, etc.
+# bitdrain - bitcoin cpu/mem dos/crash and $ attack
+remote p2p cpu/mem and upstream financial attack against bitcoin, dogecoin, etc.
 
 github issue https://github.com/dogecoin/dogecoin/issues/3243
 
